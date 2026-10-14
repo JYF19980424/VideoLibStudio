@@ -43,13 +43,13 @@ VideoLibStudio 是一款桌面端视频库管理软件，帮你把散落在电�
 ## 🖼️ 界面预览
 
 ### 主界面 · 资料库首页
-![主界面](screenshots/1-main-ui.png)
+![主界面](1-main-ui.png)
 
 ### 设置页 · 扫描目录与数据库配置
-![设置页](screenshots/2-settings.png)
+![设置页](2-settings.png)
 
 ### 网盘源 · 在线资源接入
-![网盘源](screenshots/3-cloud-sources.png)
+![网盘源](3-cloud-sources.png)
 
 ---
 
