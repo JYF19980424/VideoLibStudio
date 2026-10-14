@@ -42,12 +42,14 @@ VideoLibStudio 是一款桌面端视频库管理软件，帮你把散落在电�
 
 ## 🖼️ 界面预览
 
-（这里放 3-4 张软件界面截图）
+### 主界面 · 资料库首页
+![主界面](https://github.com/JYF19980424/VideoLibStudio/raw/main/screenshots/1-main-ui.png)
 
-- 主界面：封面墙浏览模式
-- 详情页：单个影片信息和文件路径
-- 设置页：扫描目录、数据库配置
-- 标签管理：标签筛选和批量操作
+### 设置页 · 扫描目录与数据库配置
+![设置页](https://github.com/JYF19980424/VideoLibStudio/raw/main/screenshots/2-settings.png)
+
+### 网盘源 · 在线资源接入
+![网盘源](https://github.com/JYF19980424/VideoLibStudio/raw/main/screenshots/3-cloud-sources.png)
 
 ---
 
